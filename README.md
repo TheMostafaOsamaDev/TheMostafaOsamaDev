@@ -1,5 +1,20 @@
-![Mostafa Osama Logo](https://lh3.googleusercontent.com/Ew0IWTepYNCLnSMGSedKzejjz2FjXk6VkJG_OQTB4c17KMrZjKiuXdMupDOdqqjr7EC8qApcQpTu3wRW_07ApIOA8R8B5BLRZe9AjXMsDp415WPt6u-R_TiDQsESusOnoghwPwChNJgb18G7mBdZtSLfDuTIGzCyxljcf42p-ab5_pNeU1XNT3j3KdCc7PmhQvIKDwYEKSp86FDsBTCnFvuwyf5h4yfbdnui4UdwmpYWo7nBZOBwIxgySrh5Zm5-SHJF5WSNGg8p3GhzE6rolf2XepbmYI1lhbp0zVHsHVVFg1yV0k0ogNSWWcUvvDBYYxgQyXUmlcBFJn8hNI5Au2yLznujqrKRaq2Qmo5hvBaXeJERGuWjJML3O422q3Q47jxH1oCF3SqtBLRbHUz0pXhrbYBB1oZJFsD2GIoExPysEg_Yxbx3KjffZ-xYA6VMHGUCVVsJX16v0jSOuKBtontSCmdVUBCw5ygzNoZmKE74bfPY3NzUzUi_-uuozFgSm5ZI3VZZ2cvotmBg9FeUynQcEIohEJjDfP-wepAr7DaI7jDviQ2L_FK1ZVpCYrYDT9V81VT0RqUxX1DkiDgmB4UD1rkEEA2bXv5oMH0N_2zMW39mpV8rDBmyrunrwBLm2aTPiTR59fAM-4fU6zveS0-EnTIz43C9cjZtMow3ZNfDppJxySU4ba9mQHw7u_fIYZgBCRp4ExxFshspIRTz_XswAXruPv8vUCkB26OFSxocPKnYcDjed838gKokv_0PNmO3FlKb1YRhxcM0SkDI-SrJ9ECoBb1uF5QxOc4iep9VaQQiUgbF8QFWAPICwO5nfjAkaUoyanC1izI9FDWMRoxWtmMpeLxCsk-C2t9C=w815-h312-no?authuser=0 "My Logo")
-- 👋 Hi, I’m @MostafaOS21
-- 👀 I’m interested in Making Front-end websites
-- 🌱 I’m currently learning back-end
-- 📫 How to reach me : [Facebook](https://www.facebook.com/mostaf.osama95/) [Instgram](https://www.instagram.com/mostafa.os1/)
+### Hi there 👋, my name is Mostafa
+#### I am a front-end developer
+![I am a front-end developer](https://pbs.twimg.com/profile_banners/1506565686033854474/1651592967/1080x360)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: REACT / JS / HTML / CSS / SASS
+
+- 🌱 I’m currently learning Back-end development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MostafaOS21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafa-osama-a5b042239/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mostaf.osama95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MostafaOs22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Mostafa-O21)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MostafaOS21)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaOS21&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MostafaOS21)  
+
+![Profile views](https://gpvc.arturio.dev/MostafaOS21)  

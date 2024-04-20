@@ -1,25 +1,13 @@
-### Hi there 👋, my name is Mostafa
-#### Front-end developer
-Hi my name is Mostafa!
-I am a fresh student but I am skillful at my work.
-You are going to get the best results at a prefect time.
-I will be very happy to work with you!
-![I am a front-end developer](https://pbs.twimg.com/profile_banners/1506565686033854474/1651592967/1080x360)
+<h1 align="center">My name is Mostafa Osama</h1>
+<h3 align="center">I'm a computer science graduate with a knack for building applications from the ground up. I thrive in the full-stack world, where I can leverage the power of technologies like NestJS, NextJS, ReactJS, and Express to craft robust application. Worked with DB systems SQL Server or MongoDB.</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-osama-a5b042239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-osama-a5b042239/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjy35_exycnljsnxgh1smxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjy35_exycnljsnxgh1smxg" height="30" width="40" /></a>
+</p>
 
-- 🌱 I’m currently learning Back-end development 
-#### Skills: 
-REACT / JS / HTML / CSS / SASS
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MostafaOS21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafa-osama-a5b042239/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mostaf.osama95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MostafaOs22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Mostafa-O21)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MostafaOS21)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaOS21&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MostafaOS21)  
-
-![Profile views](https://gpvc.arturio.dev/MostafaOS21)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaos21&show_icons=true&locale=en&layout=compact" alt="mostafaos21" /></p>

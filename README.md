@@ -8,12 +8,6 @@
 </p>
 
 <h3 align="left">Some of my tools:</h3>
-<ul>
-  <li>NestJS</li>
-  <li>NextJS</li>
-  <li>DotNet Core</li>
-  <li>MongoDB</li>
-  <li>SQL Server</li>
-</ul>
+<p>NestJS - NextJS - ReactJS - ExpressJS - DotNet Core - MongoDB - SQL Server</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaos21&show_icons=true&locale=en&layout=compact" alt="mostafaos21" /></p>

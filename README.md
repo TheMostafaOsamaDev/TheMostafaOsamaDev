@@ -1,7 +1,7 @@
 Hi 👋 My name is Mostafa Osama
 ==============================
 
-Software Engineer
+Software Developer
 -----------------
 
 I'm a computer science graduate with a knack for building applications from the ground up. I thrive in the full-stack world, where I can leverage the power of technologies like NestJS, NextJS, ReactJS, and Express to craft robust application. Worked with DB systems SQL Server or MongoDB.

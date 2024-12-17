@@ -9,7 +9,7 @@ I'm a computer science graduate with a knack for building applications from the 
 * 🌍  I'm based in Cairo, Egpty
 * 🖥️  See my portfolio at [Mostafa Osama](http://mostafa-osama-official.vercel.app)
 * ✉️  You can contact me at [mostafaosamaofficia95@gmail.com](mailto:mostafaosamaofficia95@gmail.com)
-* 🚀  I'm currently working on [Onvaca.com](http://195.35.28.35:3000/en)
+* 🚀  I'm currently working on <a href="onvaca.com" target="_blank">Onvaca.com</a>
 
 ### Skills
 
